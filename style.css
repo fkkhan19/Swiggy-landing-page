@@ -1,0 +1,39 @@
+#img{
+				height: 65%;
+				width: auto;
+				position: absolute;
+}
+
+*{
+				margin: 0;
+				padding: 0;
+}
+
+h2{
+				position: absolute;
+				top: 66%;
+				left: 16%;
+				margin: 4%;
+				font-family: 'Braah One', sans-serif;
+				
+				
+				
+}
+#btn{
+				position: absolute;
+				top: 80%;
+				right: 20%;
+				color: white;
+				background-color: #FB8019;
+				border: none;
+				padding: 4% 6%;
+				text-align: center;
+				font-size: 15px;
+				font-family: 'Braah One', sans-serif;
+				border-radius: 3px;
+				cursor: pointer;
+				
+}
+#btn:hover{
+				color: black;
+}
